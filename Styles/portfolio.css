@@ -1,0 +1,40 @@
+.text-primary{
+    color: orange;
+}
+.btn-primary{
+    border-radius: 10px;
+    background: #fd6e0a;
+    border:o;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 25px 36px;
+}
+
+/* Common Shared Styles */
+body{
+font-family: 'Open Sans', sans-serif;
+}
+/* nav related styles */
+nav{
+    display: flex;
+    Justify-content: space-between;
+    align-items: center;
+}
+.nav-title{
+    font-family: 10px;
+    font-size: 0%;
+
+}
+nav> ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    life-style:none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
